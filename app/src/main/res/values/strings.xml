@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">VaiParaOnde</string>
+    <string name="txvNomeEvento">Nome</string>
+    <string name="txvEnderecoEvento">Endereço</string>
+    <string name="btSalvarEvento">Salvar</string>
+    <string name="btDeleteEvento">Delete</string>
 </resources>
