@@ -6,4 +6,5 @@
     <string name="btDeleteEvento">Delete</string>
     <string name="title_activity_main">Principal</string>
     <string name="CadEvento">Evento</string>
+    <string name="config">Configuração</string>
 </resources>
