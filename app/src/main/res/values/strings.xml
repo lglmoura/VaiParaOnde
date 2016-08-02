@@ -4,5 +4,5 @@
     <string name="txvEnderecoEvento">Endereço</string>
     <string name="btSalvarEvento">Salvar</string>
     <string name="btDeleteEvento">Delete</string>
-    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_main">Principal</string>
 </resources>
